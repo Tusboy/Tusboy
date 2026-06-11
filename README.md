@@ -6,7 +6,7 @@
 - ⚡ Fun fact: Have no experience in coding until I got into university :)
 
 - My current experience: Python ( intermediate ) - C# ( rookie ) - HTML,CSS, JS ( intermediate ) - SQL ( intermediate ) - PHP ( intermediate )
-- I also have a little to quite some experience in: networking ( fireball, connection, http,...etc ), UI Design and AI & ML.
+- I also have a little to quite some experience in: networking ( firewall, connection, http,...etc ), UI Design and AI & ML.
 - Currently I'm researching and expanding my knowledge toward DSA, Docker and frameworks or database, such as nodejs, angularjs, mongodb.
 
 - 📫 How to reach me: DM to me directly for more information
